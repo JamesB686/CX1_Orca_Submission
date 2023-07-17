@@ -9,7 +9,7 @@ To set up a path link to the necessary executables for Orca, please use the foll
 1. Run the configuration shell script to set up the variables and copy the settings folder to your local directory.
 
 ``` console
-~$ bash  /rds/general/user/jwb321/home/etc/hpc_orca_submission_global/config_ORCA.sh
+~$ bash  /rds/general/user/jwb321/home/apps/Github/CX1_Orca_Submission/hpc_orca_global/config_ORCA.sh
 ```
 2. Ensure that the settings directory has been specifed. The default location is $HOME/etc/runORCA/settings
 3. The executable and MPI directories should be left to the default value (i.e. hit 'Enter') unless Orca and OpenMPI-4.1.1 code is available on your local disk.

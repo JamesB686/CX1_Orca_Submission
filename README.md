@@ -26,7 +26,7 @@ The parallel Orca executable, Porca, must be defined with a set of flags. The fo
 | FLAG  | FORMAT | DEFINITION                                                               |
 |:------|:------:| :------------------------------------------------------------------------|
 | -in * | string | The Orca input file (a .in file).                                        |
-| -nd * | int    | Number of nodes requested for the job (note 24 procs for each node)      |
+| -nd * | int    | Number of nodes requested for the job     |
 | -wt * | hh:mm  | Walltime requested for the job                                           |
 | -ref  | string | Reference files for the calculation. Require extension.                  |
 | -set  | string | The path of settings file, developer only                                |

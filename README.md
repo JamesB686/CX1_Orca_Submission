@@ -1,4 +1,4 @@
-# Imperial CX1 Orca PBS Submission Scripts
+# Imperial HPC Orca PBS Submission Scripts
 
 A set of shell scripts to configure and run parallel Orca calculations on [Imperial CX1](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/).
 
